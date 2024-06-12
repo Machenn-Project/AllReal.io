@@ -12,6 +12,13 @@
     "com.unity.package-manager-ui": "2.1.2",
     "com.unity.textmeshpro": "2.0.1"
   },
+  "samples": [
+    {
+      "displayName": "Test",
+      "description": "Testing the samples",
+      "path": "Samples~/Test"
+    }
+  ],
   "keywords": [
     "AllReal",
     "Machenn",
