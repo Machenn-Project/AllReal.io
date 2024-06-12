@@ -1,0 +1,25 @@
+{
+  "name": "com.machenn.allreal.io",
+  "version": "1.0.0",
+  "displayName": "AllReal.io",
+  "description": "AllReal.io in unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.package-manager-ui": "2.1.2",
+    "com.unity.textmeshpro": "2.0.1"
+  },
+  "keywords": [
+    "AllReal",
+    "Machenn",
+    "AllReal.io"
+  ],
+  "author": {
+    "name": "AllReal.io",
+    "email": "AllReal@gamil.com",
+    "url": "https://allreal.io/"
+  }
+}
