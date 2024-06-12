@@ -1,0 +1,23 @@
+{
+  "name": "com.machenn.test",
+  "version": "1.0.0",
+  "displayName": "Test",
+  "description": "Test in unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+  },
+  "keywords": [
+    "AllReal",
+    "Machenn",
+    "AllReal.io"
+  ],
+  "author": {
+    "name": "AllReal.io",
+    "email": "AllReal@gamil.com",
+    "url": "https://allreal.io/"
+  }
+}
